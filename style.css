@@ -1,0 +1,27 @@
+@font-face {
+ 	font-family: squareo;
+ 	src: url('Squareo.ttf');
+ }
+
+
+body {
+	background-color: #f7e4a6;
+}
+
+.james {
+	text-align: center;
+	font-family: sans-serif;
+	color: #4287f5;
+}
+
+.hornsby {
+	display: flex;
+	justify-content: center;
+}
+
+.penis {
+	font-family: "squareo";
+	text-align: center;
+	color: #2a216b;
+	font-size: 50px;
+}
